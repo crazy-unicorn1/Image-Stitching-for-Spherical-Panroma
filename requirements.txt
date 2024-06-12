@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+numpy==1.26.3
+opencv-python==4.8.0.76
+Pillow==9.4.0
+stitching==0.5.3
+scipy==1.13.0
